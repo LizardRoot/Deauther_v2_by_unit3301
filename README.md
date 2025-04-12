@@ -16,3 +16,6 @@ Deauther_v2_by_unit3301
 Важные моменты:
 1) Платы имеют общий Serial Monitor.
 2) Сначала залить прошивку, потом паять TX - TX. Иначе прошивка не зальется. 
+3) Функции деаутентификации работают с библиотеками:
+https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
+(File -> Preference -> Additional boards manager URLs:)
