@@ -27,3 +27,6 @@ Deauther_v2_by_unit3301
 3) Функции деаутентификации работают с библиотеками:
 https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
 (File -> Preference -> Additional boards manager URLs:)
+
+Captive Portal работает только для iphone. 
+Для остального надо дорабатывать в фукции startFakeAP , при server.on("/hotspot-detect.html", handleRoot);
